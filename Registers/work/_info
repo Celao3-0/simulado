@@ -1,0 +1,96 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/berta/Documents/grupo-cessar/Registers
+T_opt
+!s110 1669315515
+V@DE0J1MnYWWEHoRXk2SB[1
+04 9 4 work testbench fast 0
+=1-706979a77794-637fbbba-348-5858
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vPC
+!s110 1669315502
+!i10b 1
+!s100 gZO8^@@n^5GJ]8Q3ZmF^O3
+I`?8^Ea@V[?;4jkUh@izgG1
+R1
+w1669315369
+8PC.v
+FPC.v
+!i122 10
+L0 1 14
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.2;73
+r1
+!s85 0
+31
+!s108 1669315502.000000
+!s107 PC.v|
+!s90 PC.v|
+!i113 0
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@p@c
+vRegisters
+!s110 1669312264
+!i10b 1
+!s100 jX];F3BJhdL?_8@0>JAce2
+IjaZ[49PWfkKkR_`fYVZQc3
+R1
+w1669312257
+8Registers.v
+FRegisters.v
+!i122 8
+L0 1 194
+R3
+R4
+r1
+!s85 0
+31
+!s108 1669312263.000000
+!s107 Registers.v|
+!s90 Registers.v|
+!i113 0
+R5
+R2
+n@registers
+vtestbench
+!s110 1669315508
+!i10b 1
+!s100 ]:RU7Y`2K0FSgW=WOZ`6Z1
+IP5N;6X;ZHE>m<a_GDAGiR0
+R1
+w1669315391
+8PC_tb.v
+FPC_tb.v
+!i122 11
+L0 2 143
+R3
+R4
+r1
+!s85 0
+31
+!s108 1669315508.000000
+!s107 PC_tb.v|
+!s90 PC_tb.v|
+!i113 0
+R5
+R2

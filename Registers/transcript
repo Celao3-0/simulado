@@ -1,0 +1,87 @@
+# vsim -c work.testbench 
+# Start time: 15:45:14 on Nov 24,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2021.2 win64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.testbench(fast)
+# TESTE 00000000000000000000000000000001 CORRETO
+# reset = 0
+# enable = 0
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000000000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000000010 CORRETO
+# reset = 1
+# enable = 0
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000000000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000000011 CORRETO
+# reset = 0
+# enable = 1
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000000111
+# 
+# 
+# 
+# TESTE 00000000000000000000000000000100 CORRETO
+# reset = 0
+# enable = 1
+# ->entrada = 00000000000000000000000000001000; saida = 00000000000000000000000000001000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000000101 CORRETO
+# reset = 0
+# enable = 0
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000001000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000000110 CORRETO
+# reset = 1
+# enable = 0
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000000000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000000111 CORRETO
+# reset = 0
+# enable = 0
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000000000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000001000 CORRETO
+# reset = 1
+# enable = 1
+# ->entrada = 00000000000000000000000000001000; saida = 00000000000000000000000000000000
+# 
+# 
+# 
+# TESTE 00000000000000000000000000001001 CORRETO
+# reset = 0
+# enable = 1
+# ->entrada = 00000000000000000000000000000111; saida = 00000000000000000000000000000111
+# 
+# 
+# 
+# ** Note: $stop    : PC_tb.v(142)
+#    Time: 540 ns  Iteration: 0  Instance: /testbench
+# Break at PC_tb.v line 142
+# Stopped at PC_tb.v line 142
+# End time: 15:45:37 on Nov 24,2022, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
